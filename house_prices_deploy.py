@@ -31,7 +31,7 @@ def load_model():
     return model, scaler, encoder
 model, scaler, encoder = load_model()
 
-st.title("🏠 House Price Predictor")
+st.title("🏠 How much does your dream house cost?")
 
 st.write("Enter the details of the house below:")
 
