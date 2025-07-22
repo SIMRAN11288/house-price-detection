@@ -1,2 +1,5 @@
-# house-price-detection
-Inputs are given by the user in the form of characteristics of the house and then the house price is detected by the machine learning model. 
+House Price Predictor – Streamlit app
+This is a simple Machine Learning web app built using **Streamlit**.  
+The model predicts the price of a house based on features like the number of rooms, bathrooms, and parking space.
+
+Live Demo
